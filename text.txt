@@ -1,2 +1,7 @@
 tracky-123
 mongodb+srv://faizangulab4276_db_user:tracky-123@cluster0.jg5ocof.mongodb.net/?appName=Cluster0
+
+PORT=5000
+MONGO_URI=mongodb+srv://faizangulab4276_db_user:tracky-123@cluster0.jg5ocof.mongodb.net/?appName=Cluster0
+JWT_ACCESS_SECRET=ACCESS_SECRET
+JWT_REFRESH_SECRET=REFRESH_SECRET
