@@ -1,0 +1,18 @@
+export const ROLES = {
+  SUPER_ADMIN: "SUPER_ADMIN",
+  IT_ADMIN: "IT_ADMIN",
+  PM: "PM",
+  TESTING_MANAGER: "TESTING_MANAGER",
+  EMPLOYEE: "EMPLOYEE"
+};
+
+export const WORK_LOG_STATUS = {
+  PENDING: "PENDING",
+  APPROVED: "APPROVED",
+  DENIED: "DENIED"
+};
+
+export const JWT = {
+  ACCESS_EXPIRES: "15m",
+  REFRESH_EXPIRES: "7d"
+};
