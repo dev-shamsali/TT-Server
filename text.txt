@@ -1,0 +1,2 @@
+tracky-123
+mongodb+srv://faizangulab4276_db_user:tracky-123@cluster0.jg5ocof.mongodb.net/?appName=Cluster0
